@@ -10,7 +10,8 @@
   "dependencies": [
     "base >= 1.1",
     "boblogistics >= 1.1.6",
-    "DeadlockBlackRubberBelts >= 1.0.3"
+    "DeadlockBlackRubberBelts >= 1.0.3",
+    "! reskins-compatibility <= 2.1.6"
   ],
   "package": {
     "git_publish_branch": "main",
